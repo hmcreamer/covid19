@@ -3,5 +3,7 @@ The United States is currently suffering from a vast shortage of ventilators in 
 
 We aim to help answer these difficult questions with our work. Please check out our presentation here: https://docs.google.com/presentation/d/1JE3THHwUqQjWRhMBIVQrZ5xJsh6oh6ZjjqNmyrHrhgQ/edit?usp=sharing
 
+![](texasNeedVentilators_builtWithTableau.png)
+
 # Contributors
 Henry Creamer, Jake Joseph, Robert Walsh, and Yong Shin
